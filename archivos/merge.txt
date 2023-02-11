@@ -1,7 +1,12 @@
-Jonatan Estiven Sanchez Vargas
-Tengo 26 años
+Jonatan Estiven Sanchez Vargas.
+Tengo 26 años.
 Mis aspiraciones con la materia son:
 Despues de ver programacion orientada a objetos quiero conseguir un trabajo en el area de la programacion
 Dedicarle el tiempo nesesario para cumplir con los objetivos propuestos
-Aprender bastenate de la programacion orientada a objetos, java y python, con los los recursos ofrecidos por la materia y recursos externos
- 
+Aprender bastenate de la programacion orientada a objetos, java y python, con los los recursos ofrecidos por la materia y recursos externos.
+
+Luego de crear el archivo de texto dentro de la carpeta archivos si fue posible hacer el commit y el push de los cambios efectuados, por lo que pude deducir que no es 
+posible hacer el commit y el push con carpetas vacias.
+
+Es importante tener cuidado al momento de modificar dos archivos al mismo tiempo, como por ejemplo de forma local y en github online al mismo tiempo, ya que se pueden generar
+conflictos entre estos dos archivos y producirse errores. 
