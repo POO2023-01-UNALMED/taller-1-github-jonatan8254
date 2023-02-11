@@ -1,0 +1,2 @@
+Luego de crear el archivo de texto dentro de la carpeta archivos si fue posible hacer el commit y el push de los cambios efectuados, por lo que pude deducir que no es 
+posible hacer el commit y el push con carpetas vacias.
